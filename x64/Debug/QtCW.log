@@ -1,0 +1,1 @@
+﻿H:\Users\Илья\source\repos\QtCW\QtCW.vcxproj(50,5): error MSB4019: импортированный проект "H:\Users\Илья\source\repos\QtCW\QtMsBuild\Qt.props" не найден. Проверьте правильность выражения в объявлении Import "H:\Users\Илья\source\repos\QtCW\QtMsBuild\Qt.props" и наличие файла на диске.
